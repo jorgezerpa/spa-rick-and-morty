@@ -10,7 +10,7 @@
   "keywords": [
     "javascript"
   ],
-  "author": "Oscar Barajas <oscar@platzi.com>",
+  "author": "Jorge Zerpa <jorgezerpacoder@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.7.5",
@@ -20,5 +20,6 @@
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"
-  }
+  },
+  "dependencies": {}
 }
